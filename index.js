@@ -13,3 +13,7 @@ function multiply(a, b) {
 function divine(a, b) {
   return a / b;
 }
+
+function inc(n) {
+  return n++;
+}
